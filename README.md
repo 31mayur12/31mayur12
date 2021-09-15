@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @31mayur12
 - 👀 I’m interested in Anime,Coding
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning C/C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
